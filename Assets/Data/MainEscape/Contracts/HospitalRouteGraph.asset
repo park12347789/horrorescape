@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e37d4e034634d2992df1dd32f325c21, type: 3}
+  m_Name: HospitalRouteGraph
+  m_EditorClassIdentifier: 
+  routeGraphId: hospital_default
+  startNodeId: hospital_5f
+  sceneNodes:
+  - nodeId: hospital_5f
+    scenePath: Assets/Scenes/RMainScene_5F.unity
+    kind: 0
+    chapterLocalLevelId: 5f
+    testDefaults: {fileID: 0}
+    tags:
+    - hospital
+    - 5f
+  - nodeId: hospital_4f
+    scenePath: Assets/Scenes/RMainScene_4F.unity
+    kind: 0
+    chapterLocalLevelId: 4f
+    testDefaults: {fileID: 0}
+    tags:
+    - hospital
+    - 4f
+  - nodeId: hospital_3f
+    scenePath: Assets/Scenes/RMainScene_3F.unity
+    kind: 0
+    chapterLocalLevelId: 3f
+    testDefaults: {fileID: 0}
+    tags:
+    - hospital
+    - 3f
+  - nodeId: hospital_2f
+    scenePath: Assets/Scenes/RMainScene_2F.unity
+    kind: 0
+    chapterLocalLevelId: 2f
+    testDefaults: {fileID: 0}
+    tags:
+    - hospital
+    - 2f
+  - nodeId: hospital_1f
+    scenePath: Assets/Scenes/RMainScene_1F.unity
+    kind: 0
+    chapterLocalLevelId: 1f
+    testDefaults: {fileID: 0}
+    tags:
+    - hospital
+    - 1f
+  edges:
+  - fromNodeId: hospital_5f
+    exitId: descent
+    toNodeId: hospital_4f
+    policy: 0
+    weight: 1
+    requiredProfileEventId: 
+    requiredRunFlag: 
+  - fromNodeId: hospital_4f
+    exitId: descent
+    toNodeId: hospital_3f
+    policy: 0
+    weight: 1
+    requiredProfileEventId: 
+    requiredRunFlag: 
+  - fromNodeId: hospital_3f
+    exitId: descent
+    toNodeId: hospital_2f
+    policy: 0
+    weight: 1
+    requiredProfileEventId: 
+    requiredRunFlag: 
+  - fromNodeId: hospital_2f
+    exitId: descent
+    toNodeId: hospital_1f
+    policy: 0
+    weight: 1
+    requiredProfileEventId: 
+    requiredRunFlag: 

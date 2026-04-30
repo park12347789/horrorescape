@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b27f03625c5442f48ad156b551ce3b06, type: 3}
+  m_Name: MainEscapeRuntimeSettings
+  m_EditorClassIdentifier: Assembly-CSharp::MainEscapeRuntimeSettings
+  scenes:
+    prototypeSceneName: 
+    ventDebugSceneName: 
+    authoredSceneNames:
+    - RMainScene_5F
+    - RMainScene_4F
+    - RMainScene_3F
+    - RMainScene_2F
+    - RMainScene_1F
+    authoredFloorNumber: 5
+    floorSceneRoutes:
+    - floorNumber: 5
+      scenePath: Assets/Scenes/RMainScene_5F.unity
+    - floorNumber: 4
+      scenePath: Assets/Scenes/RMainScene_4F.unity
+    - floorNumber: 3
+      scenePath: Assets/Scenes/RMainScene_3F.unity
+    - floorNumber: 2
+      scenePath: Assets/Scenes/RMainScene_2F.unity
+    - floorNumber: 1
+      scenePath: Assets/Scenes/RMainScene_1F.unity
+  hierarchy:
+    prototypeRootName: MainEscapePrototypeRoot
+    systemsRootName: Systems
+    gameplayRootName: Gameplay
+    floorRuntimeRootName: FloorRuntime
+    noiseSystemRootName: NoiseSystem
+    noiseSystemSceneObjectName: PrototypeNoiseSystem
+    audioManagerRootName: PrototypeAudioManager
+    fogOfWarOverlayRootName: FogOfWarOverlay
+    mainCameraObjectName: Main Camera
+    globalLightObjectName: Global Light 2D
+  interactables:
+    floorToolPickupName: FloorTool
+    emergencyStairsName: EmergencyStairs
+    finalExitName: StreetExit
+    batteryRuntimePickupName: FlashlightBatteryPickup
+    glassBottleRuntimePickupName: GlassBottlePickup
+    medkitRuntimePickupName: MedkitPickup
+    goalVisualsRootName: GoalVisuals
+    keyGateVisualName: KeyGateVisual
+    emergencyStairsVisualName: EmergencyStairsVisual
+    keyPickupSearchNames:
+    - Key
+    batteryPickupSearchNames:
+    - Pickup_Battery
+    - FlashlightBatteryPickup
+    glassBottlePickupSearchNames:
+    - Pickup_GlassBottle
+    - GlassBottlePickup
+    medkitPickupSearchNames:
+    - Pickup_Medkit
+    - MedkitPickup
+  authoring:
+    workspaceRootName: MainEscapeEditingWorkspace
+    editableFloorRootName: EditableFloor_MainScene_Play
+    authoringMarkersRootName: AuthoringMarkers
+    sentryGuardsRootName: SentryGuards
+    groundTilemapName: Tiles_ground
+    wallTilemapName: Tiles_wall
+    doorTilemapName: Doors
+    coverPropsRootName: CoverProps
+    decorPropsRootName: DecorProps
+    interactivePropsRootName: InteractiveProps
+    visualRootName: Visual
+    visualTilesRootName: Tiles
+    visualPropsRootName: Props
+    gameplayOverlayRootName: GameplayOverlay
+    blockAllOverlayRootName: BlockAll
+    moveOnlyOverlayRootName: Tiles_movenonlywall
+    pickupMarkersRootName: PickupMarkers
+    patrolRouteRootName: PatrolRoute
+    ventRouteRootName: VentRoute
+    dangerMarkersRootName: DangerMarkers
+    doorMarkersRootName: Doors
+    movementBlockersRootName: MovementBlockers
+    playerStartMarkerName: PlayerStart
+    toolMarkerName: Tool
+    transitionMarkerName: Transition
+    stalkerSpawnMarkerName: StalkerSpawn
+    safeRoomMarkerName: SafeRoom
+    cellBlockLayoutRootName: CellBlockLayout_Edit_This
+    layoutGroundRootName: GroundCells
+    layoutWallRootName: WallCells
+    layoutDoorRootName: DoorCells
+    cellBlockPresetLibraryRootName: CellBlockPresetLibrary_Copy_From_Here
+    gameplayPresetLibraryRootName: GameplayPlaceablePresetLibrary_Copy_From_Here
+    templateLibraryRootName: TemplateLibrary_Copy_From_Here
+    sentrySpawnResolveRadius: 3
+    editorOnlyWorkspaceRootNames:
+    - QuickStart
+    - CellBlockPresetLibrary_Copy_From_Here
+    - GameplayPlaceablePresetLibrary_Copy_From_Here
+    batteryMarkerNames:
+    - Pickup_BatteryMarker
+    - Battery
+    - BatteryMarker
+    glassBottleMarkerNames:
+    - Pickup_GlassBottleMarker
+    - GlassPanel
+    - GlassPanelMarker
+  performance:
+    targetFrameRate: 60
+    disableVSyncForTargetFrameRate: 1
+  debug:
+    debugToggleKey: 94
+    invincibilityOnlyToggleKey: 95
+    performanceOverlayToggleKey: 96
+    startInDebugMode: 0
+    debugMakesPlayerInvincible: 1
+    debugShowsNoisePulses: 1
+    debugShowsVentMarkers: 1
+    debugShowsInventoryHud: 1
+    debugShowsStatusOverlay: 1
+    debugDisablesFogOfWar: 1
+    defaultFlashlightPresentationIntensityScale: 0.76
+    defaultFlashlightPresentationVolumeScale: 0.38
+    defaultFlashlightShadowsEnabled: 0
+    debugFlashlightPresentationIntensityScale: 1
+    debugFlashlightPresentationVolumeScale: 0
+    debugFlashlightShadowsEnabled: 0
+  hud:
+    referenceResolution: {x: 1920, y: 1080}
+    referenceResolutionMatch: 0.5
+    inventoryPanelSize: {x: 408, y: 392}
+    inventoryPanelMargin: {x: 18, y: 18}
+    inventorySlotSize: {x: 112, y: 112}
+    inventorySlotSpacing: {x: 12, y: 12}
+    inventorySlotColumnCount: 3
+    inventorySlotRowCount: 4
+    quickSlotPanelSize: {x: 396, y: 120}
+    quickSlotPanelMargin: {x: 18, y: 0}
+    quickSlotCardSize: {x: 108, y: 108}
+    quickSlotCardSpacing: {x: 12, y: 0}
+    quickSlotVisibleCount: 3
+    healthPanelSize: {x: 390, y: 138}
+    healthPanelMargin: {x: 18, y: 18}
+  uiTheme:
+    useTemporaryAnalogNoiseUi: 0
+  validation:
+    lobbyScenePath: Assets/Scenes/RMainEscape_Lobby.unity
+    gameplayScenePath: Assets/Scenes/RMainScene_5F.unity
+    mainScenePath: Assets/Scenes/RMainScene_5F.unity
+    expectedStartFloorNumber: 5
+    expectedEmergencyStairsDestinationFloor: 4

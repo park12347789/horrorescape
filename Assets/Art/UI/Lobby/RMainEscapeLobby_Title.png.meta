@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 4ecb41b9336f7d34ca30a971fdae481e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5352909254665241527
+    second: RMainEscapeLobby_Title_0
+  - first:
+      213: 5930342282664079442
+    second: RMainEscapeLobby_Title_1
+  - first:
+      213: 8534951798324040759
+    second: RMainEscapeLobby_Title_2
+  - first:
+      213: 1241602905895127926
+    second: RMainEscapeLobby_Title_3
+  - first:
+      213: 5318362059723813638
+    second: RMainEscapeLobby_Title_4
+  - first:
+      213: 416941980753843636
+    second: RMainEscapeLobby_Title_5
+  - first:
+      213: -5950125020468037016
+    second: RMainEscapeLobby_Title_6
+  - first:
+      213: -6555510652359933741
+    second: RMainEscapeLobby_Title_7
+  - first:
+      213: 4134665457459151258
+    second: RMainEscapeLobby_Title_8
+  - first:
+      213: 3879256279810019002
+    second: RMainEscapeLobby_Title_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 744
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3093f2b9a594a40800000000000000
+      internalID: 5352909254665241527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 603
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250fba2c2eecc4250800000000000000
+      internalID: 5930342282664079442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 462
+        width: 81
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349f22c07d327670800000000000000
+      internalID: 8534951798324040759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 463
+        width: 249
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bc8fdb34f0b3110800000000000000
+      internalID: 1241602905895127926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1
+        width: 676
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b0cc8d1e9ec940800000000000000
+      internalID: 5318362059723813638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 463
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d7ceb58649c500800000000000000
+      internalID: 416941980753843636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 463
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ab6d9a1d8ec6da0800000000000000
+      internalID: -5950125020468037016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 544
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d00cc45bc52605a0800000000000000
+      internalID: -6555510652359933741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_8
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 459
+        width: 186
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a914ee0c358416930800000000000000
+      internalID: 4134665457459151258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RMainEscapeLobby_Title_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 465
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe87c68803e5d530800000000000000
+      internalID: 3879256279810019002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RMainEscapeLobby_Title_0: 5352909254665241527
+      RMainEscapeLobby_Title_1: 5930342282664079442
+      RMainEscapeLobby_Title_2: 8534951798324040759
+      RMainEscapeLobby_Title_3: 1241602905895127926
+      RMainEscapeLobby_Title_4: 5318362059723813638
+      RMainEscapeLobby_Title_5: 416941980753843636
+      RMainEscapeLobby_Title_6: -5950125020468037016
+      RMainEscapeLobby_Title_7: -6555510652359933741
+      RMainEscapeLobby_Title_8: 4134665457459151258
+      RMainEscapeLobby_Title_9: 3879256279810019002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

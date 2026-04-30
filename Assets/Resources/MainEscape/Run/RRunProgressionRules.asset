@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fac62cce263a4511aad97a78fff7be72, type: 3}
+  m_Name: RRunProgressionRules
+  m_EditorClassIdentifier: Assembly-CSharp::RRunProgressionRules
+  directExitRequiresKeyOnAuthoredFloors: 1
+  startupClearPanelShortcutTemplate: Wake up on {floor}F and trigger the clear panel.
+  startupFirstFloorStreetExitTemplate: Wake up on {floor}F and use the street exit.
+  startupElevatorTemplate: Wake up on {floor}F. Find the Iron Gate Key, then use
+    the elevator.
+  startupTerminalExitRouteTemplate: Wake up on {floor}F. Find the Iron Gate Key,
+    then use the exit route.
+  startupUpperFloorTemplate: Wake up on {floor}F. Find the Iron Gate Key.
+  routeAlreadyClearMessage: The route is already clear.
+  noFloorToolPickupMessage: This scene-chain route does not use a floor tool pickup.
+  gateNotPartOfRouteMessage: The iron gate is not part of this floor route.
+  useElevatorMessage: Use the elevator.
+  useKeyedExitMessage: Use the keyed exit.
+  needIronGateKeyMessage: Need Iron Gate Key.
+  gateAlreadyOpenMessage: Iron gate already open.
+  keyWentMissingMessage: Iron Gate Key went missing.
+  gateOpenFailedMessage: Iron gate route is wired, but the authored main gate did
+    not open.
+  gateUnlockedHeadExitRouteMessage: Iron gate unlocked. Head for the exit route.
+  gateUnlockedHeadStairsMessage: Iron gate unlocked. Head for the emergency stairs.
+  noLowerStairRouteMessage: No lower stair route remains. Find the street exit.
+  clearPanelEscapeSuccessMessage: Escape successful. Review the clear panel when
+    ready.
+  needKeyForElevatorMessage: Need Iron Gate Key to use the elevator.
+  needKeyForExitMessage: Need Iron Gate Key to use the exit.
+  unlockGateBeforeStairsMessage: Unlock the iron gate before using the stairs.
+  runSessionUnavailableMessage: Run session unavailable.
+  escapeReturnLobbyMessage: Escape successful. Return to the lobby when ready.
+  noLowerFloorSceneConfiguredMessage: No lower floor scene is configured for this
+    exit.
+  arrivalElevatorTerminalTemplate: Elevator reached {floor}F. Find the Iron Gate
+    Key, then escape.
+  arrivalDropTerminalTemplate: Dropped to {floor}F. Find the Iron Gate Key, then
+    escape.
+  arrivalElevatorTemplate: Elevator reached {floor}F. Find the Iron Gate Key.
+  arrivalDropTemplate: Dropped to {floor}F. Find the Iron Gate Key.
+  arrivalStreetTemplate: Dropped to {floor}F. Head for the street exit.
+  streetAccessOnlyFromFirstFloorMessage: Street access only opens from 1F.
+  finalExitSuccessMessage: Escape successful. Use the 1F exit route to return to
+    the lobby.

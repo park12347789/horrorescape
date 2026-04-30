@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff672a00aa92a44d9a7957d3ea59b78, type: 3}
+  m_Name: VentEnemy_Venter
+  m_EditorClassIdentifier: Assembly-CSharp::VentEnemySpriteProfile
+  emerge:
+  - {fileID: 21300000, guid: 04e720e2ebc84b88be7984e8c2527723, type: 3}
+  - {fileID: 21300000, guid: 4cab6f0520494f19afad94858ccfd69d, type: 3}
+  - {fileID: 21300000, guid: 32d3881cd128489daf79700645545a23, type: 3}
+  - {fileID: 21300000, guid: 7e659e4a5e89413da0a2f065a82b2ef5, type: 3}
+  - {fileID: 21300000, guid: 48cb9f3a75fb4c47b31a57b722e73d68, type: 3}
+  - {fileID: 21300000, guid: efd2d63bf1f045a0acc1179aef319c50, type: 3}
+  crawlFront:
+  - {fileID: 21300000, guid: 169ba59132fc41f58cef7a0b0683ab28, type: 3}
+  - {fileID: 21300000, guid: a6baf101bf0440159154657e930a936e, type: 3}
+  - {fileID: 21300000, guid: 1df149b3318644b1bc9c3fd53bf3b99f, type: 3}
+  - {fileID: 21300000, guid: e593643ea90b4910ab220ac26c4e48bb, type: 3}
+  - {fileID: 21300000, guid: 39f81cf4bd22417da1038840bbbab3e3, type: 3}
+  - {fileID: 21300000, guid: cea53c1aeb774f7abc101bfeaf4acd50, type: 3}
+  crawlBack:
+  - {fileID: 21300000, guid: 3ff8567a9805424d8df8ccde45a35318, type: 3}
+  - {fileID: 21300000, guid: 5f8319375561452ab2b669965dfe816a, type: 3}
+  - {fileID: 21300000, guid: 2af498c1174f48b591352d3f5a0c1a4a, type: 3}
+  - {fileID: 21300000, guid: 18e0d8a15bd34323822f70f7b02d46a6, type: 3}
+  - {fileID: 21300000, guid: d1e2f2e48bbc4ff892dc1950e368eef6, type: 3}
+  - {fileID: 21300000, guid: 7fb0e0cb43a444dab62c2956482c49d1, type: 3}
+  crawlLeft:
+  - {fileID: 21300000, guid: 60bc1a5d5fcc464b8686285015c7aaeb, type: 3}
+  - {fileID: 21300000, guid: 51573a0a170e42c7b813cfab8b91c7ac, type: 3}
+  - {fileID: 21300000, guid: 1fe3cf55897146bab0c401f9ba374ad7, type: 3}
+  - {fileID: 21300000, guid: fac1adf1fb7a489084bcb6b55540170c, type: 3}
+  - {fileID: 21300000, guid: b6013b118c3945f5a7ec2623af73458d, type: 3}
+  - {fileID: 21300000, guid: 97402813a099475d8dc22f454e9877ec, type: 3}
+  crawlRight:
+  - {fileID: 21300000, guid: 29984c279ace46af948689b77b2904e5, type: 3}
+  - {fileID: 21300000, guid: 034ee726dc24416eb91ba87e2dc78670, type: 3}
+  - {fileID: 21300000, guid: babf0c2a4af54756ac428849a4230762, type: 3}
+  - {fileID: 21300000, guid: f1f5bbe14bee4305a7616c3184fb505f, type: 3}
+  - {fileID: 21300000, guid: 1089a4feabe446968a3d31c404b14044, type: 3}
+  - {fileID: 21300000, guid: c2b120dd0f044e60b6d3ccadadcce5b8, type: 3}
+  attack:
+  - {fileID: 21300000, guid: 272fa48b970b4ea68cc4fc66a8af4d30, type: 3}
+  - {fileID: 21300000, guid: 3131412f68cc478aa4bd98173f379043, type: 3}
+  - {fileID: 21300000, guid: 705076fd008f4c92a45a9eebf45de668, type: 3}
+  - {fileID: 21300000, guid: fee98aab74064c15994d45ea1edb4fab, type: 3}
+  - {fileID: 21300000, guid: 00a24c1a32de49339b758b7ecfc77282, type: 3}
+  - {fileID: 21300000, guid: f4a8948ef0ac49a9bef55c193bdabf58, type: 3}
+  emergeFramesPerSecond: 12
+  crawlFramesPerSecond: 10
+  attackFramesPerSecond: 12

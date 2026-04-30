@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0b7b99e9053aaf47826ae0dae9f0638, type: 3}
+  m_Name: GroundEnemy_ShadowHumanoid
+  m_EditorClassIdentifier: Assembly-CSharp::GroundEnemySpriteProfile
+  idleFront:
+  - {fileID: -5360343464352498987, guid: 7d7dd39fc80399d1dcf8bc76225dc5f8, type: 3}
+  idleBack:
+  - {fileID: 4370896929956310582, guid: 15d6315915139e4074615a3a2bfa02d9, type: 3}
+  idleLeft:
+  - {fileID: -7302543054920367745, guid: 1f79734f4693fdbe29d91dc939f78b9e, type: 3}
+  idleRight:
+  - {fileID: -2607661524393132631, guid: 03b4b48b2e97c6a24cdef156c6cf5835, type: 3}
+  walkFront:
+  - {fileID: -3266905877942346751, guid: ab9cc9119f2e4af5598550ab0fb942cf, type: 3}
+  - {fileID: -5360343464352498987, guid: 7d7dd39fc80399d1dcf8bc76225dc5f8, type: 3}
+  - {fileID: 3564966696606838569, guid: fe328214dd32fdd5cf2e6ba799427f96, type: 3}
+  walkBack:
+  - {fileID: 6811863041650429628, guid: e4f3e47e415d5d014de1a74dfc9527fc, type: 3}
+  - {fileID: 4370896929956310582, guid: 15d6315915139e4074615a3a2bfa02d9, type: 3}
+  - {fileID: -7796570305380140353, guid: 2fcd9da66bd9f02ad202290498f37a2f, type: 3}
+  walkLeft:
+  - {fileID: 5523110559139541650, guid: a2a10d2b010a424fd0bbe5e75bf87239, type: 3}
+  - {fileID: -7302543054920367745, guid: 1f79734f4693fdbe29d91dc939f78b9e, type: 3}
+  - {fileID: -57377071475052468, guid: f259f884aee526520ac712476700794d, type: 3}
+  walkRight:
+  - {fileID: -870168130017311653, guid: a6a1b355c1512a046ce29fdbccc8e514, type: 3}
+  - {fileID: -2607661524393132631, guid: 03b4b48b2e97c6a24cdef156c6cf5835, type: 3}
+  - {fileID: -9184802158442307198, guid: ec4996a36b74f0b0a88f3cc8d67b67ba, type: 3}
+  attack:
+  - {fileID: 6819148408775428604, guid: e8836cce6ebbed6abfe5d1a18ff79352, type: 3}
+  - {fileID: 7666895592980999048, guid: 18fa6089ee00eb02607b93c795c400bb, type: 3}
+  - {fileID: 49705577554171478, guid: 8aa10c4f3d87b2b734d9a6a50b0928e3, type: 3}
+  loopFramesPerSecond: 7
+  attackFramesPerSecond: 11

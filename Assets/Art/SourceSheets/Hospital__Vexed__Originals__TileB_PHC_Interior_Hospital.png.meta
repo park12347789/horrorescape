@@ -1,0 +1,1891 @@
+fileFormatVersion: 2
+guid: 2d1fa253027e1644f981ac6602c531a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5987565395255432767
+    second: TileB_PHC_Interior-Hospital_0
+  - first:
+      213: 3355460661845428875
+    second: TileB_PHC_Interior-Hospital_1
+  - first:
+      213: -3455734521316360260
+    second: TileB_PHC_Interior-Hospital_2
+  - first:
+      213: 1075230300107495370
+    second: TileB_PHC_Interior-Hospital_3
+  - first:
+      213: 9098822050107367666
+    second: TileB_PHC_Interior-Hospital_4
+  - first:
+      213: -3175147710891963870
+    second: TileB_PHC_Interior-Hospital_5
+  - first:
+      213: 2395087411439222559
+    second: TileB_PHC_Interior-Hospital_6
+  - first:
+      213: 3852776120625707727
+    second: TileB_PHC_Interior-Hospital_7
+  - first:
+      213: 5207270922134627891
+    second: TileB_PHC_Interior-Hospital_8
+  - first:
+      213: -2615394568991713981
+    second: TileB_PHC_Interior-Hospital_9
+  - first:
+      213: 7328932095450985327
+    second: TileB_PHC_Interior-Hospital_10
+  - first:
+      213: 2888377096678875622
+    second: TileB_PHC_Interior-Hospital_11
+  - first:
+      213: -6178273955014983909
+    second: TileB_PHC_Interior-Hospital_12
+  - first:
+      213: -8590648532602070477
+    second: TileB_PHC_Interior-Hospital_13
+  - first:
+      213: -8315429447104282946
+    second: TileB_PHC_Interior-Hospital_14
+  - first:
+      213: 3735681614436097932
+    second: TileB_PHC_Interior-Hospital_15
+  - first:
+      213: -6868653693368935140
+    second: TileB_PHC_Interior-Hospital_16
+  - first:
+      213: 4862476444199628730
+    second: TileB_PHC_Interior-Hospital_17
+  - first:
+      213: 1055461726294935725
+    second: TileB_PHC_Interior-Hospital_18
+  - first:
+      213: -6678567826093538283
+    second: TileB_PHC_Interior-Hospital_19
+  - first:
+      213: -3525978218477599901
+    second: TileB_PHC_Interior-Hospital_20
+  - first:
+      213: 9063415586882061903
+    second: TileB_PHC_Interior-Hospital_21
+  - first:
+      213: 5626995658828027056
+    second: TileB_PHC_Interior-Hospital_22
+  - first:
+      213: -6084177387251606054
+    second: TileB_PHC_Interior-Hospital_23
+  - first:
+      213: 4754931753991205141
+    second: TileB_PHC_Interior-Hospital_24
+  - first:
+      213: 749247208516314725
+    second: TileB_PHC_Interior-Hospital_25
+  - first:
+      213: 8488615738467472057
+    second: TileB_PHC_Interior-Hospital_26
+  - first:
+      213: -4973845996033339783
+    second: TileB_PHC_Interior-Hospital_27
+  - first:
+      213: 6145075308244133659
+    second: TileB_PHC_Interior-Hospital_28
+  - first:
+      213: -8209704826267649438
+    second: TileB_PHC_Interior-Hospital_29
+  - first:
+      213: 7617968768813295747
+    second: TileB_PHC_Interior-Hospital_30
+  - first:
+      213: 6206557420880484109
+    second: TileB_PHC_Interior-Hospital_31
+  - first:
+      213: 395009632413905494
+    second: TileB_PHC_Interior-Hospital_32
+  - first:
+      213: 4680789810279504935
+    second: TileB_PHC_Interior-Hospital_33
+  - first:
+      213: 365246766430072315
+    second: TileB_PHC_Interior-Hospital_34
+  - first:
+      213: -2146392744820238589
+    second: TileB_PHC_Interior-Hospital_35
+  - first:
+      213: -1568542089782142920
+    second: TileB_PHC_Interior-Hospital_36
+  - first:
+      213: -7582089497079555755
+    second: TileB_PHC_Interior-Hospital_37
+  - first:
+      213: 2807038100601640971
+    second: TileB_PHC_Interior-Hospital_38
+  - first:
+      213: 1936136316896266770
+    second: TileB_PHC_Interior-Hospital_39
+  - first:
+      213: 6873251410473637906
+    second: TileB_PHC_Interior-Hospital_40
+  - first:
+      213: -9157230357915104524
+    second: TileB_PHC_Interior-Hospital_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e917643111d6408dc38993b9f8201
+      internalID: 961924636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 192
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec6b5c7de7e9d4fb7f29601020e2bd
+      internalID: -2006314757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 233
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e924b87c00a04439eb1b67f121f1d5
+      internalID: -889032759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 233
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab920776cc79ae249afab08466112706
+      internalID: -1813738715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 195
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d63192a319707469d65dd04ce62657
+      internalID: -78155713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 195
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe2af75b5902740b086c1daad48fea
+      internalID: 1114674122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb230409677d79843a393a3ba69c7b34
+      internalID: -955306883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e9ec4bfd350e4abe30f1120a77300
+      internalID: 682649834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 113
+        width: 15
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fc80303b527b54f8931b2ad826a06b
+      internalID: 1811950397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 181
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f9206064527274b8fd4f87b58454d1
+      internalID: -79291960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 87
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d12b7d772a791847a657ff47971b722
+      internalID: -852750815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 84
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be415c40e786740a6fd13858e9127d
+      internalID: 577277604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f07f4c7ef6efa46ae77970938ffa8e
+      internalID: 1838473084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 65
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14eea27640a49742973d45f1384006f
+      internalID: 904448795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911da5b5ebb266840a3fd9b595040434
+      internalID: -1124114102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01bb5c66bf059f4484d7840d4c68a44
+      internalID: 609748796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdb0311ba5ec374c94a9e5f2ff81625
+      internalID: 2105432333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd58fc44c4a884296129caea39d4b2
+      internalID: -202720408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4420bba7a9397458982dc5e6f6d06a
+      internalID: -1971875323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 56
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3fd79f55be34a44b7c17eb923d2490
+      internalID: 459673063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6562ad94d23d324283c7858d0867a62
+      internalID: 592525688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e1105542e607a498b476a68d9bd183
+      internalID: 1922727937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 17
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f76e24b85fd3f499f44092f4b10b03
+      internalID: 975371330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d27c655b81383645805e91ba194b816
+      internalID: 575386053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f6b70b973bef4ab01ac9c2c26bf37
+      internalID: 537179463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_25
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 16
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae3b351dd766ec448ceac71ee934201
+      internalID: -103299066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 24
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceef862530c78d4bb15251a32ea33f0
+      internalID: -145083164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 39
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c3df0f30dc8c4ba42943cd537bf80
+      internalID: 1411186971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1266ca3e01459a44da07b81b98d6573f
+      internalID: -642732499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59f5e095944bc344816494dce37c399
+      internalID: 2116007732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6de27dd79601fb49a54a1e673c2d73b
+      internalID: -1565623751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05493e733299b4cafc4e6f7e7509e1
+      internalID: 1503021477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2fbb37585cf1f459d506c2a3f8faac
+      internalID: -223398020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3995121bc8714aa32cec844fa5fca
+      internalID: -1033497335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37327ca32f74a4894df8e9f5f41369
+      internalID: 646252225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4396fc231cb168148b0c752ca21de10f
+      internalID: -185560593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 8
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733c30e3f64c94419ab06290767a706
+      internalID: -428233101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d5a7c976677046be839c74e56edc8
+      internalID: -2056015169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d1917d87b135f449944b0a71ebac23
+      internalID: -819802081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb5492fc16268f4d88736140cb3ca29
+      internalID: -215816470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d710a3e122ed543afa874b02927066
+      internalID: 1940563854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 9
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b017c7d3e4a742b3bee3f5e38050b
+      internalID: -1947771508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06954a0ff5c37594c8ab3d67a16d91bf
+      internalID: 1441687849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 233
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403b54ee1bb8c754ca5e39b9383784c6
+      internalID: 468850442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 182
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6751f03ad927224e8e4b4af54c5cc0d
+      internalID: -1224774806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 185
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767fd03b035efb4ea4f250312faa13a
+      internalID: 9488287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94c64d9e8e75a143bdbba9a368d3b64
+      internalID: -1903934559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b1e78023a2f114195625486588cc4a
+      internalID: -515963640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f4d37c1a16054880d1804ad21260b
+      internalID: 503162910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c0be32e1e5204382021fd3ec3f0a8
+      internalID: 771879212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020e981a02a0884c8cfb0a8e97f9f87
+      internalID: 1724031548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e3b34ee27e41d43b1c26d14601484e
+      internalID: 38259550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c5310d2401a7546a1fc98a8ad72d5a
+      internalID: -1538981988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 102
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183aa19e55ff4134b8910df72e3035af
+      internalID: -931224011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 101
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80b73023b1f8249af389be3f7b7e37
+      internalID: 1108578222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 98
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6af919dbb54aa4e8a23e6c48908c55
+      internalID: -484977565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 114
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ddfa79009930e4e91d6b0ca5f891ec
+      internalID: -592135315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 134
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe571b4e61665c945b09734e3e76e3e2
+      internalID: 1079499991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 134
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a9aa8dde22e7f4aaafa51b11e8bf8e
+      internalID: -1784148834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 151
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e3ad0600bbe8b44b0f0fccaf45d371
+      internalID: -317625096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_60
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 119
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f10be478751a4f94c060919282b1f
+      internalID: -406782070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 165
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a050285904e3b849998c407323b9f82
+      internalID: 307659779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 165
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e88513e69add54abd66089f5d30492
+      internalID: 1700499142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b06568fab971004298a93981afe96d4
+      internalID: 1914287695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 132
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b9e690b2a24664cb8ed672173f4620
+      internalID: 909896764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256d9204dcbd36947aa02446ee24606f
+      internalID: -386902782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 87
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034844eab7553a04fb0f8fa4650eb218
+      internalID: -1762533210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 87
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb99d4e71b4fc4a852d701e50e2172
+      internalID: 1651216262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b60076badb72b49be575412f1d4079
+      internalID: 1710463822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 69
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36893099eb9d8154d85aebbd21189a09
+      internalID: -2043082278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 204
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b90756355ff4eb4aa9e6f05f7d7ad4a
+      internalID: 1622568143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f5e1b1e1d58bdd34393218f7a9be5dee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_0: 961924636
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_1: -2006314757
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_10: -852750815
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_11: 577277604
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_12: 1838473084
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_13: 904448795
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_14: -1124114102
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_15: 609748796
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_16: 2105432333
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_17: -202720408
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_18: -1971875323
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_19: 459673063
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_2: -889032759
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_20: 592525688
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_21: 1922727937
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_22: 975371330
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_23: 575386053
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_24: 537179463
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_25: -103299066
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_26: -145083164
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_27: 1411186971
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_28: -642732499
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_29: 2116007732
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_3: -1813738715
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_30: -1565623751
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_31: 1503021477
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_32: -223398020
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_33: -1033497335
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_34: 646252225
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_35: -185560593
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_36: -428233101
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_37: -2056015169
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_38: -819802081
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_39: -215816470
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_4: -78155713
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_40: 1940563854
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_41: -1947771508
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_42: 1441687849
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_43: 468850442
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_44: -1224774806
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_45: 9488287
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_46: -1903934559
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_47: -515963640
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_48: 503162910
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_49: 771879212
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_5: 1114674122
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_50: 1724031548
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_51: 38259550
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_52: -1538981988
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_53: -931224011
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_54: 1108578222
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_55: -484977565
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_56: -592135315
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_57: 1079499991
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_58: -1784148834
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_59: -317625096
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_6: -955306883
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_60: -406782070
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_61: 307659779
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_62: 1700499142
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_63: 1914287695
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_64: 909896764
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_65: -386902782
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_66: -1762533210
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_67: 1651216262
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_68: 1710463822
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_69: -2043082278
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_7: 682649834
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_70: 1622568143
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_8: 1811950397
+      Hospital__Vexed__Originals__TileB_PHC_Interior_Hospital_9: -79291960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

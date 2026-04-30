@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 7948b5bc9a5f0174fab5e9dcfe27fa38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6300253806238839193
+    second: HospitalProps_SourceSheet_C_0
+  - first:
+      213: 3747364961187635129
+    second: HospitalProps_SourceSheet_C_1
+  - first:
+      213: 4604913989461099923
+    second: HospitalProps_SourceSheet_C_2
+  - first:
+      213: 1984791521678111349
+    second: HospitalProps_SourceSheet_C_3
+  - first:
+      213: -716604932394284396
+    second: HospitalProps_SourceSheet_C_4
+  - first:
+      213: -6616816336054203842
+    second: HospitalProps_SourceSheet_C_5
+  - first:
+      213: -7833737114237421243
+    second: HospitalProps_SourceSheet_C_6
+  - first:
+      213: 1581017434596812043
+    second: HospitalProps_SourceSheet_C_7
+  - first:
+      213: 8543069208847971397
+    second: HospitalProps_SourceSheet_C_8
+  - first:
+      213: 2585385179964189762
+    second: HospitalProps_SourceSheet_C_9
+  - first:
+      213: -8414801021216758134
+    second: HospitalProps_SourceSheet_C_10
+  - first:
+      213: -246517849441458247
+    second: HospitalProps_SourceSheet_C_11
+  - first:
+      213: 8067913315505557388
+    second: HospitalProps_SourceSheet_C_12
+  - first:
+      213: -3776703253525097955
+    second: HospitalProps_SourceSheet_C_13
+  - first:
+      213: -4465595498839589664
+    second: HospitalProps_SourceSheet_C_14
+  - first:
+      213: -632176175623410739
+    second: HospitalProps_SourceSheet_C_15
+  - first:
+      213: -5699191830769584254
+    second: HospitalProps_SourceSheet_C_16
+  - first:
+      213: -607967462605235256
+    second: HospitalProps_SourceSheet_C_17
+  - first:
+      213: -7095788855667759591
+    second: HospitalProps_SourceSheet_C_18
+  - first:
+      213: -7523937265210530524
+    second: HospitalProps_SourceSheet_C_19
+  - first:
+      213: -1597387636398812630
+    second: HospitalProps_SourceSheet_C_20
+  - first:
+      213: 812945550705993492
+    second: HospitalProps_SourceSheet_C_21
+  - first:
+      213: 4498980550051074672
+    second: HospitalProps_SourceSheet_C_22
+  - first:
+      213: -8650476205050682873
+    second: HospitalProps_SourceSheet_C_23
+  - first:
+      213: 3617904149928659890
+    second: HospitalProps_SourceSheet_C_24
+  - first:
+      213: -4463038257129713470
+    second: HospitalProps_SourceSheet_C_25
+  - first:
+      213: -8086058025667373209
+    second: HospitalProps_SourceSheet_C_26
+  - first:
+      213: 5993639205736778124
+    second: HospitalProps_SourceSheet_C_27
+  - first:
+      213: 2136308293535746612
+    second: HospitalProps_SourceSheet_C_28
+  - first:
+      213: -1154330348116152757
+    second: HospitalProps_SourceSheet_C_29
+  - first:
+      213: -3181229311338666432
+    second: HospitalProps_SourceSheet_C_30
+  - first:
+      213: -7256758354248913588
+    second: HospitalProps_SourceSheet_C_31
+  - first:
+      213: -211671108708002811
+    second: HospitalProps_SourceSheet_C_32
+  - first:
+      213: -7197084612026799854
+    second: HospitalProps_SourceSheet_C_33
+  - first:
+      213: 4389872889367830486
+    second: HospitalProps_SourceSheet_C_34
+  - first:
+      213: 2999183839990521953
+    second: HospitalProps_SourceSheet_C_35
+  - first:
+      213: 5847796884520469415
+    second: HospitalProps_SourceSheet_C_36
+  - first:
+      213: 2632329101810806987
+    second: HospitalProps_SourceSheet_C_37
+  - first:
+      213: -6287080325692926595
+    second: HospitalProps_SourceSheet_C_38
+  - first:
+      213: 1293138841114604700
+    second: HospitalProps_SourceSheet_C_39
+  - first:
+      213: 421364253812280967
+    second: HospitalProps_SourceSheet_C_40
+  - first:
+      213: 5960596346629542737
+    second: HospitalProps_SourceSheet_C_41
+  - first:
+      213: 4763860516832254591
+    second: HospitalProps_SourceSheet_C_42
+  - first:
+      213: 2548997557667911483
+    second: HospitalProps_SourceSheet_C_43
+  - first:
+      213: -2951770611536391681
+    second: HospitalProps_SourceSheet_C_44
+  - first:
+      213: 5056393121026221162
+    second: HospitalProps_SourceSheet_C_45
+  - first:
+      213: -2902538664945488937
+    second: HospitalProps_SourceSheet_C_46
+  - first:
+      213: -4651211503964093595
+    second: HospitalProps_SourceSheet_C_47
+  - first:
+      213: 2646136487253479871
+    second: HospitalProps_SourceSheet_C_48
+  - first:
+      213: -4200880063147475612
+    second: HospitalProps_SourceSheet_C_49
+  - first:
+      213: 9022645115510963741
+    second: HospitalProps_SourceSheet_C_50
+  - first:
+      213: -2418257324894675579
+    second: HospitalProps_SourceSheet_C_51
+  - first:
+      213: 3740112338862306488
+    second: HospitalProps_SourceSheet_C_52
+  - first:
+      213: -3412968092534165225
+    second: HospitalProps_SourceSheet_C_53
+  - first:
+      213: 4453756076410442189
+    second: HospitalProps_SourceSheet_C_54
+  - first:
+      213: -5036320255900202792
+    second: HospitalProps_SourceSheet_C_55
+  - first:
+      213: -978435541732056762
+    second: HospitalProps_SourceSheet_C_56
+  - first:
+      213: -4155460841439465878
+    second: HospitalProps_SourceSheet_C_57
+  - first:
+      213: 1014031935224290569
+    second: HospitalProps_SourceSheet_C_58
+  - first:
+      213: -3381783381367747217
+    second: HospitalProps_SourceSheet_C_59
+  - first:
+      213: -5744846586558346876
+    second: HospitalProps_SourceSheet_C_60
+  - first:
+      213: -778945851032082977
+    second: HospitalProps_SourceSheet_C_61
+  - first:
+      213: -446352731517199821
+    second: HospitalProps_SourceSheet_C_62
+  - first:
+      213: 1666079625880050804
+    second: HospitalProps_SourceSheet_C_63
+  - first:
+      213: 106102477820824632
+    second: HospitalProps_SourceSheet_C_64
+  - first:
+      213: -1577946358466611659
+    second: HospitalProps_SourceSheet_C_65
+  - first:
+      213: -5013668188736046284
+    second: HospitalProps_SourceSheet_C_66
+  - first:
+      213: 4655851866101497998
+    second: HospitalProps_SourceSheet_C_67
+  - first:
+      213: -4517583269716018955
+    second: HospitalProps_SourceSheet_C_68
+  - first:
+      213: 7696625826752028521
+    second: HospitalProps_SourceSheet_C_69
+  - first:
+      213: 2579290437019105629
+    second: HospitalProps_SourceSheet_C_70
+  - first:
+      213: -1362394080640031424
+    second: HospitalProps_SourceSheet_C_71
+  - first:
+      213: -8458552999950577313
+    second: HospitalProps_SourceSheet_C_72
+  - first:
+      213: -4481827926260395966
+    second: HospitalProps_SourceSheet_C_73
+  - first:
+      213: -6932219064695215052
+    second: HospitalProps_SourceSheet_C_74
+  - first:
+      213: 9107386485675270913
+    second: HospitalProps_SourceSheet_C_75
+  - first:
+      213: -5305839519283407216
+    second: HospitalProps_SourceSheet_C_76
+  - first:
+      213: 7760377461681873361
+    second: HospitalProps_SourceSheet_C_77
+  - first:
+      213: 8365965918944460052
+    second: HospitalProps_SourceSheet_C_78
+  - first:
+      213: -4957172497366896641
+    second: HospitalProps_SourceSheet_C_79
+  - first:
+      213: 3346663100999865765
+    second: HospitalProps_SourceSheet_C_80
+  - first:
+      213: -7116016474909989892
+    second: HospitalProps_SourceSheet_C_81
+  - first:
+      213: -6057619805078749798
+    second: HospitalProps_SourceSheet_C_82
+  - first:
+      213: 7088599856667993970
+    second: HospitalProps_SourceSheet_C_83
+  - first:
+      213: 1456831254310387159
+    second: HospitalProps_SourceSheet_C_84
+  - first:
+      213: 882763835965261624
+    second: HospitalProps_SourceSheet_C_85
+  - first:
+      213: 3714796937874119841
+    second: HospitalProps_SourceSheet_C_86
+  - first:
+      213: -5751732682898652011
+    second: HospitalProps_SourceSheet_C_87
+  - first:
+      213: 3117996333406466029
+    second: HospitalProps_SourceSheet_C_88
+  - first:
+      213: -7557715306422415539
+    second: HospitalProps_SourceSheet_C_89
+  - first:
+      213: 5500649164255005570
+    second: HospitalProps_SourceSheet_C_90
+  - first:
+      213: -6309475381044383296
+    second: HospitalProps_SourceSheet_C_91
+  - first:
+      213: -3749707434372134976
+    second: HospitalProps_SourceSheet_C_92
+  - first:
+      213: 6898037435005644727
+    second: HospitalProps_SourceSheet_C_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1961
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ec45c1b800198a0800000000000000
+      internalID: -6300253806238839193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1961
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf955be390510430800000000000000
+      internalID: 3747364961187635129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1983
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3954e0320e0f7ef30800000000000000
+      internalID: 4604913989461099923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1961
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572b4d28f556b8b10800000000000000
+      internalID: 1984791521678111349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1961
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a88585c9b1e06f0800000000000000
+      internalID: -716604932394284396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1961
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3acc7989985c24a0800000000000000
+      internalID: -6616816336054203842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1961
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b51a7999f84390800000000000000
+      internalID: -7833737114237421243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1750
+        width: 504
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a7dceaf6e0f510800000000000000
+      internalID: 1581017434596812043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_8
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1750
+        width: 503
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f5fcae241f8670800000000000000
+      internalID: 8543069208847971397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_9
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1605
+        width: 509
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c235b8f1221e320800000000000000
+      internalID: 2585385179964189762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1872
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e7c20e0f983b80800000000000000
+      internalID: -8414801021216758134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1872
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7af317251349cf0800000000000000
+      internalID: -246517849441458247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1872
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f4a513a6cf6ff60800000000000000
+      internalID: 8067913315505557388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1872
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1213979664769bc0800000000000000
+      internalID: -3776703253525097955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1872
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3515bd840702c0800000000000000
+      internalID: -4465595498839589664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1872
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb60802e1f0a37f0800000000000000
+      internalID: -632176175623410739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1872
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287bb2cb93768e0b0800000000000000
+      internalID: -5699191830769584254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1782
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb5b6c50d01097f0800000000000000
+      internalID: -607967462605235256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1782
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166fb081a1b68d90800000000000000
+      internalID: -7095788855667759591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1782
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4256dcabbea959790800000000000000
+      internalID: -7523937265210530524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1781
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2219d37860f4d9e0800000000000000
+      internalID: -1597387636398812630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1782
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417a093dba9284b00800000000000000
+      internalID: 812945550705993492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1782
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0729f2149f69f6e30800000000000000
+      internalID: 4498980550051074672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1683
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7022cf349b553f780800000000000000
+      internalID: -8650476205050682873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1683
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc8e7e7a0653230800000000000000
+      internalID: 3617904149928659890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1683
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c01ec0f95a1012c0800000000000000
+      internalID: -4463038257129713470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1683
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76756e2411d88cf80800000000000000
+      internalID: -8086058025667373209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1683
+        width: 17
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c898bc91a1fad2350800000000000000
+      internalID: 5993639205736778124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1683
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a4be60311b5ad10800000000000000
+      internalID: 2136308293535746612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1537
+        width: 204
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e651f0aaefaffe0800000000000000
+      internalID: -1154330348116152757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1438
+        width: 504
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0462994dbc00ad3d0800000000000000
+      internalID: -3181229311338666432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_31
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1438
+        width: 503
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d252a89b0da4b90800000000000000
+      internalID: -7256758354248913588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1592
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5041f348f3eff0df0800000000000000
+      internalID: -211671108708002811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1592
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21966b95da1de1c90800000000000000
+      internalID: -7197084612026799854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1592
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df13e36226fbec30800000000000000
+      internalID: 4389872889367830486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1592
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1602ab6efcd3f9920800000000000000
+      internalID: 2999183839990521953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1592
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a38a74984c872150800000000000000
+      internalID: 5847796884520469415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1592
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc03b551f59e78420800000000000000
+      internalID: 2632329101810806987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1298
+        width: 381
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d9b011cdcfb8a0800000000000000
+      internalID: -6287080325692926595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1152
+        width: 500
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9475e5bce622f110800000000000000
+      internalID: 1293138841114604700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_40
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 798
+        width: 455
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e478d6e8cf8d500800000000000000
+      internalID: 421364253812280967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_41
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1022
+        width: 509
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1535852fbca48b250800000000000000
+      internalID: 5960596346629542737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 966
+        width: 208
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a9b4966e1ac1240800000000000000
+      internalID: 4763860516832254591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 970
+        width: 239
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37522606cbdf5320800000000000000
+      internalID: 2548997557667911483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 802
+        width: 501
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff19fe894443907d0800000000000000
+      internalID: -2951770611536391681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_45
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 787
+        width: 208
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a642f7fe0caeb2640800000000000000
+      internalID: 5056393121026221162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_46
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 787
+        width: 208
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6619667c18b7d0800000000000000
+      internalID: -2902538664945488937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 895
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638203c7c3937fb0800000000000000
+      internalID: -4651211503964093595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 889
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb191f58d17f8b420800000000000000
+      internalID: 2646136487253479871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_49
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 812
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df21cf6d973b5c0800000000000000
+      internalID: -4200880063147475612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 817
+        width: 138
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eb174bdefd63d70800000000000000
+      internalID: 9022645115510963741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 864
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d9a2686cf907ed0800000000000000
+      internalID: -2418257324894675579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 843
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b471f13b5c87e330800000000000000
+      internalID: 3740112338862306488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_53
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 833
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71132ce3a93b2a0d0800000000000000
+      internalID: -3412968092534165225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_54
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 812
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc19ea2fd8beecd30800000000000000
+      internalID: 4453756076410442189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_55
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 812
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8c6fb29656b1ab0800000000000000
+      internalID: -5036320255900202792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 510
+        width: 227
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641a17b0f06eb62f0800000000000000
+      internalID: -978435541732056762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_57
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 510
+        width: 220
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e64fb9166d456c0800000000000000
+      internalID: -4155460841439465878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_58
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 510
+        width: 194
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d12f92ca0921e00800000000000000
+      internalID: 1014031935224290569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_59
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 695
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d814e9eed7111d0800000000000000
+      internalID: -3381783381367747217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_60
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 634
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489031f87743640b0800000000000000
+      internalID: -5744846586558346876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_61
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 510
+        width: 507
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5e7f120e0a035f0800000000000000
+      internalID: -778945851032082977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_62
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 510
+        width: 227
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a54693e8c3ec9f0800000000000000
+      internalID: -446352731517199821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_63
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 679
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c981ca79a1f1710800000000000000
+      internalID: 1666079625880050804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_64
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 608
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c8c4434a3f87100800000000000000
+      internalID: 106102477820824632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_65
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 603
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536f9f4b5220a1ae0800000000000000
+      internalID: -1577946358466611659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_66
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 510
+        width: 258
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b36bc885fdb6ab0800000000000000
+      internalID: -5013668188736046284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_67
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 547
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c1ddba98ec9040800000000000000
+      internalID: 4655851866101497998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_68
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 594
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8345d83f15e41c0800000000000000
+      internalID: -4517583269716018955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_69
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 583
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd6a43968efca60800000000000000
+      internalID: 7696625826752028521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_70
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 567
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f51f9cfa7bc320800000000000000
+      internalID: 2579290437019105629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_71
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 551
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452b5b4dcdc71de0800000000000000
+      internalID: -1362394080640031424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_72
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 551
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f519124acde2d9a80800000000000000
+      internalID: -8458552999950577313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_73
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 531
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d2de2f395dc1c0800000000000000
+      internalID: -4481827926260395966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_74
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 543
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ca6a73d7fcbcf90800000000000000
+      internalID: -6932219064695215052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_75
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 535
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1032ed671cfe36e70800000000000000
+      internalID: 9107386485675270913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 301
+        width: 234
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09612e9911fdd56b0800000000000000
+      internalID: -5305839519283407216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 277
+        width: 235
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ee766f2662bb60800000000000000
+      internalID: 7760377461681873361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_78
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 279
+        width: 458
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d75b1bda1e91470800000000000000
+      internalID: 8365965918944460052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_79
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 224
+        width: 369
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff2c1cb0e5943bb0800000000000000
+      internalID: -4957172497366896641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_80
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 280
+        width: 70
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a51106eb5cb17e20800000000000000
+      internalID: 3346663100999865765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_81
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 295
+        width: 514
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a925e7b4de3d90800000000000000
+      internalID: -7116016474909989892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 222
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9df8e5c1e20feba0800000000000000
+      internalID: -6057619805078749798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 14
+        width: 229
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277a49b3304cf5260800000000000000
+      internalID: 7088599856667993970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_84
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 275
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd7bd2ae44b73410800000000000000
+      internalID: 1456831254310387159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_85
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 0
+        width: 244
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837454f1805304c00800000000000000
+      internalID: 882763835965261624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_86
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac12b6122c9d8330800000000000000
+      internalID: 3714796937874119841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_87
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 23
+        width: 458
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59442d0599dbd20b0800000000000000
+      internalID: -5751732682898652011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_88
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 7
+        width: 379
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defa9a73529554b20800000000000000
+      internalID: 3117996333406466029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_89
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 152
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fc827a8f99d1790800000000000000
+      internalID: -7557715306422415539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_90
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b087d654b365c40800000000000000
+      internalID: 5500649164255005570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_91
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 70
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1f6c9e19d3078a0800000000000000
+      internalID: -6309475381044383296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_92
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 75
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c78b9a84fc56fbc0800000000000000
+      internalID: -3749707434372134976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HospitalProps_SourceSheet_C_93
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfabd0ff70cabf50800000000000000
+      internalID: 6898037435005644727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HospitalProps_SourceSheet_C_0: -6300253806238839193
+      HospitalProps_SourceSheet_C_1: 3747364961187635129
+      HospitalProps_SourceSheet_C_10: -8414801021216758134
+      HospitalProps_SourceSheet_C_11: -246517849441458247
+      HospitalProps_SourceSheet_C_12: 8067913315505557388
+      HospitalProps_SourceSheet_C_13: -3776703253525097955
+      HospitalProps_SourceSheet_C_14: -4465595498839589664
+      HospitalProps_SourceSheet_C_15: -632176175623410739
+      HospitalProps_SourceSheet_C_16: -5699191830769584254
+      HospitalProps_SourceSheet_C_17: -607967462605235256
+      HospitalProps_SourceSheet_C_18: -7095788855667759591
+      HospitalProps_SourceSheet_C_19: -7523937265210530524
+      HospitalProps_SourceSheet_C_2: 4604913989461099923
+      HospitalProps_SourceSheet_C_20: -1597387636398812630
+      HospitalProps_SourceSheet_C_21: 812945550705993492
+      HospitalProps_SourceSheet_C_22: 4498980550051074672
+      HospitalProps_SourceSheet_C_23: -8650476205050682873
+      HospitalProps_SourceSheet_C_24: 3617904149928659890
+      HospitalProps_SourceSheet_C_25: -4463038257129713470
+      HospitalProps_SourceSheet_C_26: -8086058025667373209
+      HospitalProps_SourceSheet_C_27: 5993639205736778124
+      HospitalProps_SourceSheet_C_28: 2136308293535746612
+      HospitalProps_SourceSheet_C_29: -1154330348116152757
+      HospitalProps_SourceSheet_C_3: 1984791521678111349
+      HospitalProps_SourceSheet_C_30: -3181229311338666432
+      HospitalProps_SourceSheet_C_31: -7256758354248913588
+      HospitalProps_SourceSheet_C_32: -211671108708002811
+      HospitalProps_SourceSheet_C_33: -7197084612026799854
+      HospitalProps_SourceSheet_C_34: 4389872889367830486
+      HospitalProps_SourceSheet_C_35: 2999183839990521953
+      HospitalProps_SourceSheet_C_36: 5847796884520469415
+      HospitalProps_SourceSheet_C_37: 2632329101810806987
+      HospitalProps_SourceSheet_C_38: -6287080325692926595
+      HospitalProps_SourceSheet_C_39: 1293138841114604700
+      HospitalProps_SourceSheet_C_4: -716604932394284396
+      HospitalProps_SourceSheet_C_40: 421364253812280967
+      HospitalProps_SourceSheet_C_41: 5960596346629542737
+      HospitalProps_SourceSheet_C_42: 4763860516832254591
+      HospitalProps_SourceSheet_C_43: 2548997557667911483
+      HospitalProps_SourceSheet_C_44: -2951770611536391681
+      HospitalProps_SourceSheet_C_45: 5056393121026221162
+      HospitalProps_SourceSheet_C_46: -2902538664945488937
+      HospitalProps_SourceSheet_C_47: -4651211503964093595
+      HospitalProps_SourceSheet_C_48: 2646136487253479871
+      HospitalProps_SourceSheet_C_49: -4200880063147475612
+      HospitalProps_SourceSheet_C_5: -6616816336054203842
+      HospitalProps_SourceSheet_C_50: 9022645115510963741
+      HospitalProps_SourceSheet_C_51: -2418257324894675579
+      HospitalProps_SourceSheet_C_52: 3740112338862306488
+      HospitalProps_SourceSheet_C_53: -3412968092534165225
+      HospitalProps_SourceSheet_C_54: 4453756076410442189
+      HospitalProps_SourceSheet_C_55: -5036320255900202792
+      HospitalProps_SourceSheet_C_56: -978435541732056762
+      HospitalProps_SourceSheet_C_57: -4155460841439465878
+      HospitalProps_SourceSheet_C_58: 1014031935224290569
+      HospitalProps_SourceSheet_C_59: -3381783381367747217
+      HospitalProps_SourceSheet_C_6: -7833737114237421243
+      HospitalProps_SourceSheet_C_60: -5744846586558346876
+      HospitalProps_SourceSheet_C_61: -778945851032082977
+      HospitalProps_SourceSheet_C_62: -446352731517199821
+      HospitalProps_SourceSheet_C_63: 1666079625880050804
+      HospitalProps_SourceSheet_C_64: 106102477820824632
+      HospitalProps_SourceSheet_C_65: -1577946358466611659
+      HospitalProps_SourceSheet_C_66: -5013668188736046284
+      HospitalProps_SourceSheet_C_67: 4655851866101497998
+      HospitalProps_SourceSheet_C_68: -4517583269716018955
+      HospitalProps_SourceSheet_C_69: 7696625826752028521
+      HospitalProps_SourceSheet_C_7: 1581017434596812043
+      HospitalProps_SourceSheet_C_70: 2579290437019105629
+      HospitalProps_SourceSheet_C_71: -1362394080640031424
+      HospitalProps_SourceSheet_C_72: -8458552999950577313
+      HospitalProps_SourceSheet_C_73: -4481827926260395966
+      HospitalProps_SourceSheet_C_74: -6932219064695215052
+      HospitalProps_SourceSheet_C_75: 9107386485675270913
+      HospitalProps_SourceSheet_C_76: -5305839519283407216
+      HospitalProps_SourceSheet_C_77: 7760377461681873361
+      HospitalProps_SourceSheet_C_78: 8365965918944460052
+      HospitalProps_SourceSheet_C_79: -4957172497366896641
+      HospitalProps_SourceSheet_C_8: 8543069208847971397
+      HospitalProps_SourceSheet_C_80: 3346663100999865765
+      HospitalProps_SourceSheet_C_81: -7116016474909989892
+      HospitalProps_SourceSheet_C_82: -6057619805078749798
+      HospitalProps_SourceSheet_C_83: 7088599856667993970
+      HospitalProps_SourceSheet_C_84: 1456831254310387159
+      HospitalProps_SourceSheet_C_85: 882763835965261624
+      HospitalProps_SourceSheet_C_86: 3714796937874119841
+      HospitalProps_SourceSheet_C_87: -5751732682898652011
+      HospitalProps_SourceSheet_C_88: 3117996333406466029
+      HospitalProps_SourceSheet_C_89: -7557715306422415539
+      HospitalProps_SourceSheet_C_9: 2585385179964189762
+      HospitalProps_SourceSheet_C_90: 5500649164255005570
+      HospitalProps_SourceSheet_C_91: -6309475381044383296
+      HospitalProps_SourceSheet_C_92: -3749707434372134976
+      HospitalProps_SourceSheet_C_93: 6898037435005644727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

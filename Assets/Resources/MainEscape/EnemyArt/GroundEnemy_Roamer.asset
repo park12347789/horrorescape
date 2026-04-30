@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0b7b99e9053aaf47826ae0dae9f0638, type: 3}
+  m_Name: GroundEnemy_Roamer
+  m_EditorClassIdentifier: Assembly-CSharp::GroundEnemySpriteProfile
+  idleFront:
+  - {fileID: 21300000, guid: d38b0b9acce44eddb0fe544ca928b285, type: 3}
+  idleBack:
+  - {fileID: 21300000, guid: ddac1b5e959849f2b8b5f95407a7d996, type: 3}
+  idleLeft:
+  - {fileID: 21300000, guid: 6069d05a0fbf48f08aba65da26eb593d, type: 3}
+  idleRight:
+  - {fileID: 21300000, guid: 80235ea7c7f7423daea4e01b7a64f6a2, type: 3}
+  walkFront:
+  - {fileID: 21300000, guid: d38b0b9acce44eddb0fe544ca928b285, type: 3}
+  - {fileID: 21300000, guid: 6d8ace0f47224427a664d51431b8f565, type: 3}
+  - {fileID: 21300000, guid: b6bc51e1a5cc40a094f25155b31f035a, type: 3}
+  - {fileID: 21300000, guid: 64f8a0149a0b47499a55fccc704c0a55, type: 3}
+  - {fileID: 21300000, guid: 6e83822546e24c20b10f0bcd8c3ff12c, type: 3}
+  - {fileID: 21300000, guid: e3d0a6137fb24410acba0cea5dce5a54, type: 3}
+  walkBack:
+  - {fileID: 21300000, guid: ddac1b5e959849f2b8b5f95407a7d996, type: 3}
+  - {fileID: 21300000, guid: a975428879cd43ed9d6e89e5a69b2f76, type: 3}
+  - {fileID: 21300000, guid: cd2fc94c5c4a4eff92f99ca9d7caf501, type: 3}
+  - {fileID: 21300000, guid: afa6ac21688045b3a62cd33990119d0e, type: 3}
+  - {fileID: 21300000, guid: 6cefdd906d93479da0f0acc936000dad, type: 3}
+  - {fileID: 21300000, guid: cf50a93da93b47afb06ef53a6b791b6b, type: 3}
+  walkLeft:
+  - {fileID: 21300000, guid: 6069d05a0fbf48f08aba65da26eb593d, type: 3}
+  - {fileID: 21300000, guid: 0112627817284ff4a8587cdf3e346efb, type: 3}
+  - {fileID: 21300000, guid: 892aa6e149f342e7bc5ad224491594af, type: 3}
+  - {fileID: 21300000, guid: e3b9cfe0b7ee434dabc25219804d4b65, type: 3}
+  - {fileID: 21300000, guid: ea7b92230b7044fe93c5974a0c46d62b, type: 3}
+  - {fileID: 21300000, guid: 10e1e7eb1c2c4f248fb787025c626461, type: 3}
+  walkRight:
+  - {fileID: 21300000, guid: 80235ea7c7f7423daea4e01b7a64f6a2, type: 3}
+  - {fileID: 21300000, guid: 60cad59edd674ddabe982e7b992272f8, type: 3}
+  - {fileID: 21300000, guid: e8b6bb67420d45f69bb13e4a2c9f9395, type: 3}
+  - {fileID: 21300000, guid: 587e174cc2c44545a2e4f55492585354, type: 3}
+  - {fileID: 21300000, guid: 5c3036500ebb4aeaa888f0d0ff3b6c78, type: 3}
+  - {fileID: 21300000, guid: 8908608d2d7a4abaa9a8f410cb705ffe, type: 3}
+  attack:
+  - {fileID: 21300000, guid: d38b0b9acce44eddb0fe544ca928b285, type: 3}
+  - {fileID: 21300000, guid: 6d8ace0f47224427a664d51431b8f565, type: 3}
+  - {fileID: 21300000, guid: b6bc51e1a5cc40a094f25155b31f035a, type: 3}
+  - {fileID: 21300000, guid: 64f8a0149a0b47499a55fccc704c0a55, type: 3}
+  - {fileID: 21300000, guid: 6e83822546e24c20b10f0bcd8c3ff12c, type: 3}
+  - {fileID: 21300000, guid: e3d0a6137fb24410acba0cea5dce5a54, type: 3}
+  preserveSpriteColors: 1
+  loopFramesPerSecond: 8
+  attackFramesPerSecond: 12

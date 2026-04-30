@@ -1,0 +1,14 @@
+Shadow humanoid enemy placeholder set.
+
+Intent:
+- Match a blurry, human-like shadow silhouette rather than a detailed monster.
+- Stay safe for experimentation by adding a new profile instead of replacing the live enemy art.
+
+Included:
+- 12 walk frames across front/back/left/right
+- 3 attack frames
+- 1 preview contact sheet
+- 1 GroundEnemySpriteProfile asset at Assets/Resources/MainEscape/EnemyArt/GroundEnemy_ShadowHumanoid.asset
+
+Suggested next step:
+- Assign the new profile to a prefab variant or a test enemy first, then tune speed and contrast in-scene.

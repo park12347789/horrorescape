@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 9b2c6d5f52aeb144b8cab972ed8a892f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5219929910712189251
+    second: 2f_clinicward_final_overview_0
+  - first:
+      213: 3997396135838342335
+    second: 2f_clinicward_final_overview_1
+  - first:
+      213: -4634534749146225594
+    second: 2f_clinicward_final_overview_2
+  - first:
+      213: -3713378825395578242
+    second: 2f_clinicward_final_overview_3
+  - first:
+      213: -4614056679711675679
+    second: 2f_clinicward_final_overview_4
+  - first:
+      213: 5489403099322153166
+    second: 2f_clinicward_final_overview_5
+  - first:
+      213: 6126209087051635536
+    second: 2f_clinicward_final_overview_6
+  - first:
+      213: 1851005562326930251
+    second: 2f_clinicward_final_overview_7
+  - first:
+      213: -4546043161345837735
+    second: 2f_clinicward_final_overview_8
+  - first:
+      213: -864321794866055318
+    second: 2f_clinicward_final_overview_9
+  - first:
+      213: 6606831060122335980
+    second: 2f_clinicward_final_overview_10
+  - first:
+      213: -3678929863443620163
+    second: 2f_clinicward_final_overview_11
+  - first:
+      213: 8448860886214519151
+    second: 2f_clinicward_final_overview_12
+  - first:
+      213: -9149921009223697603
+    second: 2f_clinicward_final_overview_13
+  - first:
+      213: -6465498335622807396
+    second: 2f_clinicward_final_overview_14
+  - first:
+      213: 1030499311796743225
+    second: 2f_clinicward_final_overview_15
+  - first:
+      213: -289243093927938050
+    second: 2f_clinicward_final_overview_16
+  - first:
+      213: 938568675610164659
+    second: 2f_clinicward_final_overview_17
+  - first:
+      213: 1110184236934792443
+    second: 2f_clinicward_final_overview_18
+  - first:
+      213: 2878273170003227436
+    second: 2f_clinicward_final_overview_19
+  - first:
+      213: -5687469438155034270
+    second: 2f_clinicward_final_overview_20
+  - first:
+      213: 7807725709809835359
+    second: 2f_clinicward_final_overview_21
+  - first:
+      213: 5177846907377581764
+    second: 2f_clinicward_final_overview_22
+  - first:
+      213: -6725031125763339289
+    second: 2f_clinicward_final_overview_23
+  - first:
+      213: 1469534054936295294
+    second: 2f_clinicward_final_overview_24
+  - first:
+      213: -831194342909690839
+    second: 2f_clinicward_final_overview_25
+  - first:
+      213: -1418400555678879412
+    second: 2f_clinicward_final_overview_26
+  - first:
+      213: 6867962318350991469
+    second: 2f_clinicward_final_overview_27
+  - first:
+      213: -7041250618746436179
+    second: 2f_clinicward_final_overview_28
+  - first:
+      213: 6573318166710209340
+    second: 2f_clinicward_final_overview_29
+  - first:
+      213: -2828232349815468521
+    second: 2f_clinicward_final_overview_30
+  - first:
+      213: -1514970271196527985
+    second: 2f_clinicward_final_overview_31
+  - first:
+      213: -2702300837907707101
+    second: 2f_clinicward_final_overview_32
+  - first:
+      213: 8394144137002665598
+    second: 2f_clinicward_final_overview_33
+  - first:
+      213: 1649693369033957674
+    second: 2f_clinicward_final_overview_34
+  - first:
+      213: -2658772832125463426
+    second: 2f_clinicward_final_overview_35
+  - first:
+      213: -1879441442183535188
+    second: 2f_clinicward_final_overview_36
+  - first:
+      213: 3696315478554665729
+    second: 2f_clinicward_final_overview_37
+  - first:
+      213: -5320108018460820783
+    second: 2f_clinicward_final_overview_38
+  - first:
+      213: -1833085630641151093
+    second: 2f_clinicward_final_overview_39
+  - first:
+      213: -7940650856719261692
+    second: 2f_clinicward_final_overview_40
+  - first:
+      213: -5432275325957141055
+    second: 2f_clinicward_final_overview_41
+  - first:
+      213: -4922538388135301801
+    second: 2f_clinicward_final_overview_42
+  - first:
+      213: 6213531588348861171
+    second: 2f_clinicward_final_overview_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 399
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe309f07651f87b0800000000000000
+      internalID: -5219929910712189251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd92f3b9a997730800000000000000
+      internalID: 3997396135838342335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6446fe15333deafb0800000000000000
+      internalID: -4634534749146225594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ad6d3f1ad677cc0800000000000000
+      internalID: -3713378825395578242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea644865e397ffb0800000000000000
+      internalID: -4614056679711675679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 386
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87604e8074e2c40800000000000000
+      internalID: 5489403099322153166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 371
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9b75e4baa40550800000000000000
+      internalID: 6126209087051635536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 377
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d4cb70c710b910800000000000000
+      internalID: 1851005562326930251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 371
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955336aa4d539e0c0800000000000000
+      internalID: -4546043161345837735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 385
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67716d28ef4104f0800000000000000
+      internalID: -864321794866055318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 385
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceafb9d38dd20bb50800000000000000
+      internalID: 6606831060122335980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 371
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbedddfe7c0d1fcc0800000000000000
+      internalID: -3678929863443620163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 371
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6922874632604570800000000000000
+      internalID: 8448860886214519151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 385
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b765a0253f40180800000000000000
+      internalID: -9149921009223697603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 349
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90c259f48fe546a0800000000000000
+      internalID: -6465498335622807396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 358
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cedec0aa11d4e00800000000000000
+      internalID: 1030499311796743225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 358
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7b0b440f66cfbf0800000000000000
+      internalID: -289243093927938050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 358
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd7d0bdc37760d00800000000000000
+      internalID: 938568675610164659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_18
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 348
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf48cb57eaa286f00800000000000000
+      internalID: 1110184236934792443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 338
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237498c23ea1f720800000000000000
+      internalID: 2878273170003227436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 344
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261f0e3fdac0211b0800000000000000
+      internalID: -5687469438155034270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 345
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d56ec7a2d9a5c60800000000000000
+      internalID: 7807725709809835359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce789f24586bd740800000000000000
+      internalID: 5177846907377581764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 345
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4e6562d3eba2a0800000000000000
+      internalID: -6725031125763339289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 306
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7731d1ef65d46410800000000000000
+      internalID: 1469534054936295294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_25
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 307
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cbd8326210774f0800000000000000
+      internalID: -831194342909690839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 309
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c413b89a534d05ce0800000000000000
+      internalID: -1418400555678879412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_27
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60441c2757ef4f50800000000000000
+      internalID: 6867962318350991469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 294
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da58e1f4ed3784e90800000000000000
+      internalID: -7041250618746436179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 84
+        width: 298
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b4262bb0e193b50800000000000000
+      internalID: 6573318166710209340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e0bf699a910c8d0800000000000000
+      internalID: -2828232349815468521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 255
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82cd04a09eb9fae0800000000000000
+      internalID: -1514970271196527985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b454094bf7f7ad0800000000000000
+      internalID: -2702300837907707101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 232
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c8775e9dfd7470800000000000000
+      internalID: 8394144137002665598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_34
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 216
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212691f063e4e610800000000000000
+      internalID: 1649693369033957674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 209
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74d3ba22342a1bd0800000000000000
+      internalID: -2658772832125463426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_36
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 186
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a08e47f1eae5e0800000000000000
+      internalID: -1879441442183535188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_37
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 190
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10367050853fb4330800000000000000
+      internalID: 3696315478554665729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_38
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 194
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da7fe0c1fd2b26b0800000000000000
+      internalID: -5320108018460820783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_39
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 132
+        width: 6
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83e2ceb4529f86e0800000000000000
+      internalID: -1833085630641151093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_40
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e8dffd142dc190800000000000000
+      internalID: -7940650856719261692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_41
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 150
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd843a5f5eac94b0800000000000000
+      internalID: -5432275325957141055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_42
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75da8fdaa61afabb0800000000000000
+      internalID: -4922538388135301801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2f_clinicward_final_overview_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 122
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fad3341f06ea3650800000000000000
+      internalID: 6213531588348861171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2f_clinicward_final_overview_0: -5219929910712189251
+      2f_clinicward_final_overview_1: 3997396135838342335
+      2f_clinicward_final_overview_10: 6606831060122335980
+      2f_clinicward_final_overview_11: -3678929863443620163
+      2f_clinicward_final_overview_12: 8448860886214519151
+      2f_clinicward_final_overview_13: -9149921009223697603
+      2f_clinicward_final_overview_14: -6465498335622807396
+      2f_clinicward_final_overview_15: 1030499311796743225
+      2f_clinicward_final_overview_16: -289243093927938050
+      2f_clinicward_final_overview_17: 938568675610164659
+      2f_clinicward_final_overview_18: 1110184236934792443
+      2f_clinicward_final_overview_19: 2878273170003227436
+      2f_clinicward_final_overview_2: -4634534749146225594
+      2f_clinicward_final_overview_20: -5687469438155034270
+      2f_clinicward_final_overview_21: 7807725709809835359
+      2f_clinicward_final_overview_22: 5177846907377581764
+      2f_clinicward_final_overview_23: -6725031125763339289
+      2f_clinicward_final_overview_24: 1469534054936295294
+      2f_clinicward_final_overview_25: -831194342909690839
+      2f_clinicward_final_overview_26: -1418400555678879412
+      2f_clinicward_final_overview_27: 6867962318350991469
+      2f_clinicward_final_overview_28: -7041250618746436179
+      2f_clinicward_final_overview_29: 6573318166710209340
+      2f_clinicward_final_overview_3: -3713378825395578242
+      2f_clinicward_final_overview_30: -2828232349815468521
+      2f_clinicward_final_overview_31: -1514970271196527985
+      2f_clinicward_final_overview_32: -2702300837907707101
+      2f_clinicward_final_overview_33: 8394144137002665598
+      2f_clinicward_final_overview_34: 1649693369033957674
+      2f_clinicward_final_overview_35: -2658772832125463426
+      2f_clinicward_final_overview_36: -1879441442183535188
+      2f_clinicward_final_overview_37: 3696315478554665729
+      2f_clinicward_final_overview_38: -5320108018460820783
+      2f_clinicward_final_overview_39: -1833085630641151093
+      2f_clinicward_final_overview_4: -4614056679711675679
+      2f_clinicward_final_overview_40: -7940650856719261692
+      2f_clinicward_final_overview_41: -5432275325957141055
+      2f_clinicward_final_overview_42: -4922538388135301801
+      2f_clinicward_final_overview_43: 6213531588348861171
+      2f_clinicward_final_overview_5: 5489403099322153166
+      2f_clinicward_final_overview_6: 6126209087051635536
+      2f_clinicward_final_overview_7: 1851005562326930251
+      2f_clinicward_final_overview_8: -4546043161345837735
+      2f_clinicward_final_overview_9: -864321794866055318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

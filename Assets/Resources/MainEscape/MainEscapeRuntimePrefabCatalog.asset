@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4aaa2c922bb6e449badb574bfa3e3a7, type: 3}
+  m_Name: MainEscapeRuntimePrefabCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::MainEscapeRuntimePrefabCatalog
+  floorToolPickupPrefab: {fileID: 2708557232197344415, guid: de6e117351fbc334ca1e63a0f611bcff, type: 3}
+  ironGateKeyVisualPrefab: {fileID: 2338754429884436535, guid: 0ca7854321008f1439e258574d6ca1f4, type: 3}
+  emergencyStairsPrefab: {fileID: 384209717946535449, guid: 62c3ef51e4c415d41881774f7f54a826, type: 3}
+  finalExitPrefab: {fileID: 3530621668646307435, guid: 9971e842df5573e45829144b667ca33f, type: 3}
+  flashlightBatteryPickupPrefab: {fileID: 3307735485462251710, guid: d0523b8eae8204a4f80a30bdb62e9b10, type: 3}
+  glassBottlePickupPrefab: {fileID: 3105196759280615530, guid: eb99233d1cd94124da9a1e36dc41b556, type: 3}
+  medkitPickupPrefab: {fileID: 6629678410914409895, guid: 5edbfbdae79ca20459a0e35bc82ed360, type: 3}
+  groundEnemyPrefab: {fileID: 3070559761806118360, guid: d004aa52bdf8f6c418d186dfdad415fc, type: 3}
+  ventEnemyPrefab: {fileID: 1105533003824116254, guid: 713f892556b01344d9d7eaf44a6ac3f9, type: 3}
+  glassTrapPanelPrefab: {fileID: 7805334122086451003, guid: 0d9bce9da45a4f2d8e47d814ef7b9b31, type: 3}
+  playerPrefab: {fileID: 7537854801243045837, guid: 3a06a90badc44a742b9c2e7e36fc658b, type: 3}

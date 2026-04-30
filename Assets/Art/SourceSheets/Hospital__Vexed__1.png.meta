@@ -1,0 +1,1382 @@
+fileFormatVersion: 2
+guid: f2f1f98e4bb06ad4695205fcbbb9e0be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3182337307874813821
+    second: Hospital__Vexed__1_0
+  - first:
+      213: 748268881607184041
+    second: Hospital__Vexed__1_1
+  - first:
+      213: 2392922673994699503
+    second: Hospital__Vexed__1_2
+  - first:
+      213: 6663959407382255191
+    second: Hospital__Vexed__1_3
+  - first:
+      213: -2980871961417877013
+    second: Hospital__Vexed__1_4
+  - first:
+      213: 2263198531415914632
+    second: Hospital__Vexed__1_5
+  - first:
+      213: 1880921386693071902
+    second: Hospital__Vexed__1_6
+  - first:
+      213: -6314517277841683731
+    second: Hospital__Vexed__1_7
+  - first:
+      213: -7263037304791939258
+    second: Hospital__Vexed__1_8
+  - first:
+      213: -1754612819067121251
+    second: Hospital__Vexed__1_9
+  - first:
+      213: -431863795315318651
+    second: Hospital__Vexed__1_10
+  - first:
+      213: 5946078255006280654
+    second: Hospital__Vexed__1_11
+  - first:
+      213: -3143230105736030706
+    second: Hospital__Vexed__1_12
+  - first:
+      213: 1693367037547714111
+    second: Hospital__Vexed__1_13
+  - first:
+      213: 315043536643276341
+    second: Hospital__Vexed__1_14
+  - first:
+      213: 1487116828120749777
+    second: Hospital__Vexed__1_15
+  - first:
+      213: -8766121427911945057
+    second: Hospital__Vexed__1_16
+  - first:
+      213: 1136934753054438842
+    second: Hospital__Vexed__1_17
+  - first:
+      213: -135540286932299087
+    second: Hospital__Vexed__1_18
+  - first:
+      213: -991986392109996881
+    second: Hospital__Vexed__1_19
+  - first:
+      213: 8076893057543584679
+    second: Hospital__Vexed__1_20
+  - first:
+      213: 6938435346954666242
+    second: Hospital__Vexed__1_21
+  - first:
+      213: -7808893617277930576
+    second: Hospital__Vexed__1_22
+  - first:
+      213: -9021144085774166292
+    second: Hospital__Vexed__1_23
+  - first:
+      213: -9222258173948519375
+    second: Hospital__Vexed__1_24
+  - first:
+      213: 567529441824468694
+    second: Hospital__Vexed__1_25
+  - first:
+      213: 1904006230170972849
+    second: Hospital__Vexed__1_26
+  - first:
+      213: -8086123007417002925
+    second: Hospital__Vexed__1_27
+  - first:
+      213: 9161852331683062298
+    second: Hospital__Vexed__1_28
+  - first:
+      213: -6433267806026613290
+    second: Hospital__Vexed__1_29
+  - first:
+      213: 7426876707617697871
+    second: Hospital__Vexed__1_30
+  - first:
+      213: 8754476508917129272
+    second: Hospital__Vexed__1_31
+  - first:
+      213: -5510842381075922092
+    second: Hospital__Vexed__1_32
+  - first:
+      213: 2241757652317495153
+    second: Hospital__Vexed__1_33
+  - first:
+      213: -7698614290160286190
+    second: Hospital__Vexed__1_34
+  - first:
+      213: -38650133128221073
+    second: Hospital__Vexed__1_35
+  - first:
+      213: -6014925925476863696
+    second: Hospital__Vexed__1_36
+  - first:
+      213: -8154425396806622024
+    second: Hospital__Vexed__1_37
+  - first:
+      213: 257168294575228212
+    second: Hospital__Vexed__1_38
+  - first:
+      213: 4135737400726322835
+    second: Hospital__Vexed__1_39
+  - first:
+      213: 5201698990093000121
+    second: Hospital__Vexed__1_40
+  - first:
+      213: 2087918911539076150
+    second: Hospital__Vexed__1_41
+  - first:
+      213: -1175800248068718225
+    second: Hospital__Vexed__1_42
+  - first:
+      213: -2507955652668663714
+    second: Hospital__Vexed__1_43
+  - first:
+      213: 1946199766374797273
+    second: Hospital__Vexed__1_44
+  - first:
+      213: 3950106399553723709
+    second: Hospital__Vexed__1_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_0
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 807
+        width: 501
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38816a8441116d3d0800000000000000
+      internalID: -3182337307874813821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_1
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1433
+        width: 478
+        height: 615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aecca45592626a00800000000000000
+      internalID: 748268881607184041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_2
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1759
+        width: 478
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29e666e7e553120800000000000000
+      internalID: 2392922673994699503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1538
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75654aa16c32b7c50800000000000000
+      internalID: 6663959407382255191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1537
+        width: 223
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f3c29eb0d1a6d0800000000000000
+      internalID: -2980871961417877013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1424
+        width: 478
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8883b39c21f786f10800000000000000
+      internalID: 2263198531415914632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1299
+        width: 380
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14964029006a1a10800000000000000
+      internalID: 1880921386693071902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_7
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 797
+        width: 453
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea0e26ddf35e58a0800000000000000
+      internalID: -6314517277841683731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_8
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1022
+        width: 242
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64747717d02843b90800000000000000
+      internalID: -7263037304791939258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_9
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1022
+        width: 242
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d915829ffec56a7e0800000000000000
+      internalID: -1754612819067121251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1178
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e0e09a26b10af0800000000000000
+      internalID: -431863795315318651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1177
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe2545ba6b48250800000000000000
+      internalID: 5946078255006280654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1162
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e065a445fd00164d0800000000000000
+      internalID: -3143230105736030706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1035
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36136b495c008710800000000000000
+      internalID: 1693367037547714111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1035
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb76a6d624f5400800000000000000
+      internalID: 315043536643276341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1022
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d694a740ec43a410800000000000000
+      internalID: 1487116828120749777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1022
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f945e57910b785680800000000000000
+      internalID: -8766121427911945057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 797
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53b98522437cf00800000000000000
+      internalID: 1136934753054438842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 797
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b255a0c3d67e1ef0800000000000000
+      internalID: -135540286932299087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 804
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42344d1a1cb32f0800000000000000
+      internalID: -991986392109996881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 804
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab34bf4173e61070800000000000000
+      internalID: 8076893057543584679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_21
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 668
+        width: 238
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2014f38cf264a4060800000000000000
+      internalID: 6938435346954666242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_22
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 668
+        width: 252
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3755dd0ac31a390800000000000000
+      internalID: -7808893617277930576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 510
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce690d300457ec280800000000000000
+      internalID: -9021144085774166292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 510
+        width: 219
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1bda6d05f30080800000000000000
+      internalID: -9222258173948519375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 510
+        width: 194
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dee58b350540e700800000000000000
+      internalID: 567529441824468694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_26
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 567
+        width: 192
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b87714936c6a10800000000000000
+      internalID: 1904006230170972849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_27
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 537
+        width: 108
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354dbc487f158cf80800000000000000
+      internalID: -8086123007417002925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_28
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 537
+        width: 108
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12ad827720752f70800000000000000
+      internalID: 9161852331683062298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_29
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 510
+        width: 228
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddb3dce30178b6a0800000000000000
+      internalID: -6433267806026613290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_30
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 510
+        width: 258
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40fc2c2401911760800000000000000
+      internalID: 7426876707617697871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 301
+        width: 234
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e18c60062e7970800000000000000
+      internalID: 8754476508917129272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 277
+        width: 234
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4534dc65d0e8583b0800000000000000
+      internalID: -5510842381075922092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_33
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 279
+        width: 457
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd5ea15b25c1f10800000000000000
+      internalID: 2241757652317495153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_34
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 255
+        width: 362
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21600449717092590800000000000000
+      internalID: -7698614290160286190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_35
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 305
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eee50a8efa67ff0800000000000000
+      internalID: -38650133128221073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_36
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 295
+        width: 513
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f9ad3db0b68ca0800000000000000
+      internalID: -6014925925476863696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 220
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4eaeb3e49a5de80800000000000000
+      internalID: -8154425396806622024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 14
+        width: 229
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43546ad8335a19300800000000000000
+      internalID: 257168294575228212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_39
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 276
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef69ef047156930800000000000000
+      internalID: 4135737400726322835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_40
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd5005fba5203840800000000000000
+      internalID: 5201698990093000121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_41
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 0
+        width: 241
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5b121037c9fc10800000000000000
+      internalID: 2087918911539076150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 23
+        width: 458
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f614c0f67e7beafe0800000000000000
+      internalID: -1175800248068718225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_43
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 4
+        width: 361
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5850422f93f13dd0800000000000000
+      internalID: -2507955652668663714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_44
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 113
+        width: 105
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfc7b8406a420b10800000000000000
+      internalID: 1946199766374797273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_45
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d956287d891d630800000000000000
+      internalID: 3950106399553723709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_46
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1151
+        width: 524
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315602fb322e20a4e9859c2505242abf
+      internalID: -442101182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1440
+        width: 517
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14da7783b58073d47be9d36d0a64abd4
+      internalID: 1228565557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hospital__Vexed__1_48
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1768
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b7953451fd554eace76f98c1dc610
+      internalID: 539044330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f22731002def59b429e03424db60039b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hospital__Vexed__1_0: -3182337307874813821
+      Hospital__Vexed__1_1: 748268881607184041
+      Hospital__Vexed__1_10: -431863795315318651
+      Hospital__Vexed__1_11: 5946078255006280654
+      Hospital__Vexed__1_12: -3143230105736030706
+      Hospital__Vexed__1_13: 1693367037547714111
+      Hospital__Vexed__1_14: 315043536643276341
+      Hospital__Vexed__1_15: 1487116828120749777
+      Hospital__Vexed__1_16: -8766121427911945057
+      Hospital__Vexed__1_17: 1136934753054438842
+      Hospital__Vexed__1_18: -135540286932299087
+      Hospital__Vexed__1_19: -991986392109996881
+      Hospital__Vexed__1_2: 2392922673994699503
+      Hospital__Vexed__1_20: 8076893057543584679
+      Hospital__Vexed__1_21: 6938435346954666242
+      Hospital__Vexed__1_22: -7808893617277930576
+      Hospital__Vexed__1_23: -9021144085774166292
+      Hospital__Vexed__1_24: -9222258173948519375
+      Hospital__Vexed__1_25: 567529441824468694
+      Hospital__Vexed__1_26: 1904006230170972849
+      Hospital__Vexed__1_27: -8086123007417002925
+      Hospital__Vexed__1_28: 9161852331683062298
+      Hospital__Vexed__1_29: -6433267806026613290
+      Hospital__Vexed__1_3: 6663959407382255191
+      Hospital__Vexed__1_30: 7426876707617697871
+      Hospital__Vexed__1_31: 8754476508917129272
+      Hospital__Vexed__1_32: -5510842381075922092
+      Hospital__Vexed__1_33: 2241757652317495153
+      Hospital__Vexed__1_34: -7698614290160286190
+      Hospital__Vexed__1_35: -38650133128221073
+      Hospital__Vexed__1_36: -6014925925476863696
+      Hospital__Vexed__1_37: -8154425396806622024
+      Hospital__Vexed__1_38: 257168294575228212
+      Hospital__Vexed__1_39: 4135737400726322835
+      Hospital__Vexed__1_4: -2980871961417877013
+      Hospital__Vexed__1_40: 5201698990093000121
+      Hospital__Vexed__1_41: 2087918911539076150
+      Hospital__Vexed__1_42: -1175800248068718225
+      Hospital__Vexed__1_43: -2507955652668663714
+      Hospital__Vexed__1_44: 1946199766374797273
+      Hospital__Vexed__1_45: 3950106399553723709
+      Hospital__Vexed__1_46: -442101182
+      Hospital__Vexed__1_47: 1228565557
+      Hospital__Vexed__1_48: 539044330
+      Hospital__Vexed__1_5: 2263198531415914632
+      Hospital__Vexed__1_6: 1880921386693071902
+      Hospital__Vexed__1_7: -6314517277841683731
+      Hospital__Vexed__1_8: -7263037304791939258
+      Hospital__Vexed__1_9: -1754612819067121251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
