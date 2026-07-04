@@ -5,6 +5,7 @@
 ## Portfolio Links
 
 - Windows build: [Google Drive download](https://drive.google.com/file/d/1l9Y87HL83ZdSxiUpCX_FdfcjUABYj9h8/view?usp=drivesdk)
+- Gameplay video: [Google Drive watch link](https://drive.google.com/file/d/1YfElKT2vWfIfpvKrsT0apSEyDli0FlzX/view)
 - Pitch deck: [HorrorStealth Survival Blueprint](https://docs.google.com/presentation/d/1qa-PLc1CUWqdpsZsKStaQqg3Q3hVvJfoBjpBPoRS2KM/edit?slide=id.p1#slide=id.p1)
 - Public repository: [park12347789/horrorescape](https://github.com/park12347789/horrorescape)
 
