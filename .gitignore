@@ -29,6 +29,8 @@
 
 # Unity cache / metadata
 Assets/AssetStoreTools*
+Assets/MCPForUnity/
+Assets/MCPForUnity.meta
 sysinfo.txt
 
 # OS files
